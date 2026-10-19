@@ -1,0 +1,29 @@
+name,age,city,salary,join_date,department
+Grace,25,Kolkata,82000,15-02-2021,SALES
+  GRACE  ,28yrs,Chennai,75000,,engineering
+Bob, 45,Delhi,N/A,2019-11-01,Sales
+Judy,35,Bengaluru,75000,2020/06/23,
+  JUDY  ,,,,,SALES
+Grace,35,Kolkata,75000,2019-11-01,Sales
+  GRACE  , 45,,60000,15-02-2021,Sales
+  JUDY  ,40,Chennai,N/A,2019-11-01,
+Charlie,30,Chennai,60000,,HR
+Frank,25,Delhi,60000,unknown,sales
+Judy,40,,N/A,2021-01-15,HR
+Heidi,unknown,Kolkata,60000,2021-01-15,Engineering
+  IVAN  ,25,Bengaluru,50000,2021-01-15,Engineering
+  HEIDI  ,28yrs,Bengaluru,75000,2020/06/23,Sales
+Eva,40,Chennai,50000,unknown,sales
+  ALICE  ,30,Kolkata,75000,unknown,HR
+Charlie,25,,75000,2021-01-15,engineering
+  JUDY  ,30,Mumbai,50000,15-02-2021,sales
+  CHARLIE  ,40,Chennai,82000,unknown,HR
+  EVA  ,35,Mumbai,82000,unknown,engineering
+  GRACE  ,25,Delhi,60000,2019-11-01,HR
+  IVAN  ,35,Chennai,N/A,unknown,HR
+  JUDY  ,30,,50000,2021-01-15,Sales
+Ivan,28yrs,,75000,2021-01-15,HR
+Eva,30,Mumbai,,2021-01-15,Engineering
+Bob, 45,Delhi,N/A,2019-11-01,Sales
+  JUDY  ,40,Chennai,N/A,2019-11-01,
+  ALICE  ,30,Kolkata,75000,unknown,HR

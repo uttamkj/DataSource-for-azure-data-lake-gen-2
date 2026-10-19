@@ -1,0 +1,18 @@
+id,name,salary,dept,experience,active
+101,  ravi kumar  ,75000,engineering,4,1
+102,  priya sharma  ,88000,data,6,1
+103,  ankit singh  ,N/A,sales,2,1       
+104,,91000,engineering,7,1              
+105,  sneha rao  ,67000,unknown,3,1   
+106,  raj verma  ,62000,data,3,1
+107,  meera iyer  ,54000,hr,1,1
+108,  karan mehta  ,83000,finance,5,0
+109,  anjali gupta  ,N/A,hr,4,1
+110,  vishal patel  ,72000,engineering,6,1  
+111,  neha singh  ,68000,sales,2,1
+112,  arjun khanna  ,N/A,unknown,3,0
+113,  ritu sharma  ,59000,hr,1,1
+114,  amit desai  ,80000,finance,5,1
+115,  priya kumar  ,N/A,engineering,4,1
+116,  sanjay mehta  ,75000,data,6,1
+117,  anjali rao  ,N/A,sales,2,1
